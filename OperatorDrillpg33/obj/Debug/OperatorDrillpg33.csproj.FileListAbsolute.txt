@@ -1,0 +1,7 @@
+C:\Users\Student\Source\repos\OperatorDrillpg33\OperatorDrillpg33\bin\Debug\OperatorDrillpg33.exe.config
+C:\Users\Student\Source\repos\OperatorDrillpg33\OperatorDrillpg33\bin\Debug\OperatorDrillpg33.exe
+C:\Users\Student\Source\repos\OperatorDrillpg33\OperatorDrillpg33\bin\Debug\OperatorDrillpg33.pdb
+C:\Users\Student\Source\repos\OperatorDrillpg33\OperatorDrillpg33\obj\Debug\OperatorDrillpg33.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\repos\OperatorDrillpg33\OperatorDrillpg33\obj\Debug\OperatorDrillpg33.exe
+C:\Users\Student\Source\repos\OperatorDrillpg33\OperatorDrillpg33\obj\Debug\OperatorDrillpg33.pdb
+C:\Users\Student\Source\repos\OperatorDrillpg33\OperatorDrillpg33\obj\Debug\OperatorDrillpg33.csprojAssemblyReference.cache
