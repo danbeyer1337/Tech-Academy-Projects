@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.exe.config
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.exe
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.pdb
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.exe
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.pdb
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.csprojAssemblyReference.cache

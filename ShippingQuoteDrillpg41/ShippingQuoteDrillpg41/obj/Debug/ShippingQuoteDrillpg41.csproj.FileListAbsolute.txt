@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\ShippingQuoteDrillpg41\ShippingQuoteDrillpg41\bin\Debug\ShippingQuoteDrillpg41.exe.config
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\ShippingQuoteDrillpg41\ShippingQuoteDrillpg41\bin\Debug\ShippingQuoteDrillpg41.exe
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\ShippingQuoteDrillpg41\ShippingQuoteDrillpg41\bin\Debug\ShippingQuoteDrillpg41.pdb
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\ShippingQuoteDrillpg41\ShippingQuoteDrillpg41\obj\Debug\ShippingQuoteDrillpg41.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\ShippingQuoteDrillpg41\ShippingQuoteDrillpg41\obj\Debug\ShippingQuoteDrillpg41.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\ShippingQuoteDrillpg41\ShippingQuoteDrillpg41\obj\Debug\ShippingQuoteDrillpg41.exe
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\ShippingQuoteDrillpg41\ShippingQuoteDrillpg41\obj\Debug\ShippingQuoteDrillpg41.pdb
